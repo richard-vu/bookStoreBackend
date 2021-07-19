@@ -7,3 +7,5 @@ deploy:
   api_key:
      secure: $HEROKU_TOKEN
   app: "book-store-2021"
+
+edge: true
